@@ -1,0 +1,42 @@
+[
+    {
+        "id": "001",
+        "cover_img": "https://i.ibb.co/Y2zMNct/2.png",
+        "author_name": "John Smith",
+        "author_img": "https://i.ibb.co/GJLqrS7/boy1.png",
+        "date_publish": "Mar 14 (4 Days ago)",
+        "reading_time": "05 min read",
+        "title": "The Secret of Shadows",
+        "Hashtags": ["#SpaceExploration", "#Astronomy", "#Science"]
+    },
+    {
+        "id": "002",
+        "cover_img": "https://i.ibb.co/PWDdkZ6/1.jpg",
+        "author_name": "Emily Brown",
+        "author_img": "https://i.ibb.co/9sn2tpG/profile.png",
+        "date_publish": "Mar 14 (4 Days ago)",
+        "reading_time": "10 min read",
+        "title": "Lost in Time",
+        "Hashtags": ["#Art", "#Painting", "#Creativity"]
+    },
+    {
+        "id": "003",
+        "cover_img": "https://i.ibb.co/6X6mwcf/3.png",
+        "author_name": "Sophia Johnson",
+        "author_img": "https://i.ibb.co/Hz953QV/girl1.jpg",
+        "date_publish": "Mar 14 (4 Days ago)",
+        "reading_time": "12 min read",
+        "title": "Echoes of Eternity",
+        "Hashtags": ["#Health", "#Nutrition", "#Wellness"]
+    },
+    {
+        "id": "004",
+        "cover_img": "https://i.ibb.co/82ZDfcV/4.jpg",
+        "author_name": "David Anderson",
+        "author_img": "https://i.ibb.co/PDQYmVS/girl2.jpg",
+        "date_publish": "Mar 14 (4 Days ago)",
+        "reading_time": "15 min read",
+        "title": "Whispers in the Dark",
+        "Hashtags": ["#AI", "#Technology", "#Future"]
+    }
+]
