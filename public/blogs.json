@@ -5,7 +5,7 @@
         "author_name": "John Smith",
         "author_img": "https://i.ibb.co/GJLqrS7/boy1.png",
         "date_publish": "Mar 14 (4 Days ago)",
-        "reading_time": "05 min read",
+        "reading_time": 5 ,
         "title": "The Secret of Shadows",
         "Hashtags": ["#SpaceExploration", "#Astronomy", "#Science"]
     },
@@ -15,7 +15,7 @@
         "author_name": "Emily Brown",
         "author_img": "https://i.ibb.co/9sn2tpG/profile.png",
         "date_publish": "Mar 14 (4 Days ago)",
-        "reading_time": "10 min read",
+        "reading_time": 10 ,
         "title": "Lost in Time",
         "Hashtags": ["#Art", "#Painting", "#Creativity"]
     },
@@ -25,7 +25,7 @@
         "author_name": "Sophia Johnson",
         "author_img": "https://i.ibb.co/Hz953QV/girl1.jpg",
         "date_publish": "Mar 14 (4 Days ago)",
-        "reading_time": "12 min read",
+        "reading_time": 12 ,
         "title": "Echoes of Eternity",
         "Hashtags": ["#Health", "#Nutrition", "#Wellness"]
     },
@@ -35,7 +35,7 @@
         "author_name": "David Anderson",
         "author_img": "https://i.ibb.co/PDQYmVS/girl2.jpg",
         "date_publish": "Mar 14 (4 Days ago)",
-        "reading_time": "15 min read",
+        "reading_time": 15 ,
         "title": "Whispers in the Dark",
         "Hashtags": ["#AI", "#Technology", "#Future"]
     }

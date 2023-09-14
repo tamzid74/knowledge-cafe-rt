@@ -1,17 +1,24 @@
-/* eslint-disable no-unused-vars */
-import PropTypes from 'prop-types';
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from "react";
+import Blog from "../Blog/Blog";
 
-const [blogs,setblogs] = useState([]);
-
-useEffect(()=>
-    
-,[])
 
 const Blogs = () => {
+    const [blogs, setBlogs] = useState([]);
+    
+     
+    useEffect(()=>{
+        fetch('blogs.json')
+        .then(res=> res.json())
+        .then(data=>setBlogs(data));
+    },[])
+    
+    
     return (
-        <div>
-            
+        <div className='w-2/3'>
+            <h2 className='text-4xl font-bold'>Blogs: {blogs.length}</h2>
+            {
+                blogs.map(blog=><Blog key={blog.id} blog={blog}></Blog>)
+            }
         </div>
     );
 };
@@ -19,9 +26,4 @@ const Blogs = () => {
 
 
 
-Blogs.propTypes ={
-    Blogs : PropTypes.array.isRequired
-}
-
 export default Blogs;
-
